@@ -25,8 +25,8 @@ Antes de começar, instale as seguintes dependências:
 
 ### 📥 Clonando o Repositório
 ```bash
-git clone https://github.com/seu-usuario/Jogo2D-Cpp.git
-cd Jogo2D-Cpp
+git clone https://github.com/marciomn01/Jogo2D-C.git
+cd Jogo2D-C
 ```
 
 ### 🔨 Compilando e Executando
@@ -34,7 +34,7 @@ cd Jogo2D-Cpp
 mkdir build && cd build
 cmake ..
 make
-./Jogo2D
+./Jogo2D-C
 ```
 
 ## 🗺 Roadmap do Desenvolvimento
@@ -48,8 +48,8 @@ make
 Quer contribuir com o projeto? Sinta-se à vontade para abrir issues e pull requests! ✨
 
 ## 📬 Contato
-📌 [LinkedIn](https://www.linkedin.com/in/seu-perfil)  
-🐙 [GitHub](https://github.com/seu-usuario)
+📌 [LinkedIn](https://www.linkedin.com/in/marciomelchiadesnascimento/)  
+🐙 [GitHub](https://github.com/marciomn01)
 
 ---
 📌 *Projeto desenvolvido para fins acadêmicos e aprendizado.*
